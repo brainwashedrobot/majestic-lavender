@@ -21,12 +21,6 @@ params:
         label: Blog
         url: /blog/
         style: link
-      - label: Modes
-        url: lorem-ipsum
-        style: icon
-        icon_class: fa-dark
-        new_window: false
-        type: action
   footer:
     type: footer
     content: '&copy; studiojyw. All rights reserved.'
