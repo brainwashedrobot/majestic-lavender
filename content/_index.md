@@ -72,6 +72,20 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
   - type: section_testimonials
     title: Testimonials
     section_id: testimonials
