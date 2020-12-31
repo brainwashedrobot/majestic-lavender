@@ -48,12 +48,6 @@ params:
         icon_class: fa-instagram
         new_window: true
       - type: action
-        label: Dribbble
-        url: 'https://dribbble.com/'
-        style: icon
-        icon_class: fa-dribbble
-        new_window: true
-      - type: action
         label: LinkedIn
         url: 'https://www.linkedin.com/'
         style: icon
