@@ -6,8 +6,12 @@ sections:
     title: 'Hi, I''m Yiwei J. a software developer focused on Front-End technologies'
     section_id: hero
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I have deep fondations in HTML/CSS3/Javascript, with 2+ years of web
+      application development experience in modern JavaScript frameworks,
+      currently i'm working with React. I have mastered HTTP/S protocols and I
+      am able to work with APIs. My CSS skills are solid, i have experience
+      working with CSS3, Sass, CSS-in-JS, CSS frameworks like bootstrap and
+      bulma.
     actions:
       - type: action
         label: Let's talk
