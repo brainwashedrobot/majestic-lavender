@@ -31,7 +31,6 @@ sections:
         options:
           - Inquiries
           - Sponsorship
-          - Other
       - type: form_field
         input_type: textarea
         name: message
