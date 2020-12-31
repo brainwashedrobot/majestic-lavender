@@ -1,7 +1,7 @@
 ---
 title: Netflix Clone
-subtitle: Optional Project Subtitle
-date: 2019-05-10
+subtitle: A front end clone of Netflix
+date: '2019-05-10'
 thumb_image: /images/netflix-clone.png
 image: /images/netflix-clone.png
 layout: project
