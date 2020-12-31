@@ -6,7 +6,7 @@ params:
   accent_color: pink
   header:
     type: header
-    title: Exto
+    title: YIwei J.
     has_nav: true
     nav_links:
       - type: action
