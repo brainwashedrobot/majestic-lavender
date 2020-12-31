@@ -7,11 +7,13 @@ sections:
     section_id: hero
     content: >-
       I have deep fondations in HTML/CSS3/Javascript, with 2+ years of web
-      application development experience in modern JavaScript frameworks,
-      currently i'm working with React. I have mastered HTTP/S protocols and I
-      am able to work with APIs. My CSS skills are solid, i have experience
-      working with CSS3, Sass, CSS-in-JS, CSS frameworks like bootstrap and
-      bulma.
+      application development experience in modern JavaScript frameworks.
+      Currently, i'm working with React. 
+
+
+      I have mastered HTTP/S protocols and I'm able to work with different APIs
+      and my CSS skills are solid with experience working with CSS3, Sass,
+      CSS-in-JS, CSS frameworks like bootstrap and bulma.
     actions:
       - type: action
         label: Let's talk
