@@ -31,7 +31,7 @@ sections:
   - type: section_grid
     title: Technologies
     section_id: services
-    subtitle: An optional subtitle of the section
+    subtitle: Technologies that i work with currently
     col_number: two
     is_numbered: true
     grid_items:
