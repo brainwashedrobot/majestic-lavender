@@ -27,7 +27,7 @@ sections:
     layout_style: tiles
     projects_number: 6
     view_all_label: See More
-    view_all_url: portfolio
+    view_all_url: /portfolio
   - type: section_grid
     title: Technologies
     section_id: services
