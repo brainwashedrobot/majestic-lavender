@@ -21,10 +21,6 @@ params:
         label: Blog
         url: /blog/
         style: link
-      - type: action
-        label: Contact
-        url: /contact/
-        style: link
   footer:
     type: footer
     content: >-
