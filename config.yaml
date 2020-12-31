@@ -2,7 +2,7 @@ title: 'Hi, it''s Yiwei'
 baseURL: /
 params:
   description: Yiwei's developer portfolio and blog
-  color_scheme: dark
+  color_scheme: light
   accent_color: pink
   header:
     type: header
