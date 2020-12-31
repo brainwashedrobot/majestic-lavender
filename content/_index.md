@@ -1,6 +1,6 @@
 ---
 title: Home
-hide_title: true
+hide_title: false
 sections:
   - type: section_hero
     title: 'Hi, I''m Yiwei J. a software developer focused on Front-End technologies'
