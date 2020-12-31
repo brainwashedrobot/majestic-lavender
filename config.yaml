@@ -23,7 +23,7 @@ params:
         style: link
       - label: Modes
         url: lorem-ipsum
-        style: button
+        style: icon
         icon_class: fa-dark
         new_window: false
         type: action
