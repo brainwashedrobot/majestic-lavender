@@ -3,7 +3,7 @@ baseURL: /
 params:
   description: Yiwei's developer portfolio and blog
   color_scheme: light
-  accent_color: pink
+  accent_color: green
   header:
     type: header
     title: Exto
