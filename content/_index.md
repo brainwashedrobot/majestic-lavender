@@ -29,7 +29,7 @@ sections:
     view_all_label: See More
     view_all_url: portfolio
   - type: section_grid
-    title: What We Do
+    title: Technologies
     section_id: services
     subtitle: An optional subtitle of the section
     col_number: two
