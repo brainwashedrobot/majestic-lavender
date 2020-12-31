@@ -22,10 +22,6 @@ params:
         url: /blog/
         style: link
       - type: action
-        label: Style Guide
-        url: /style-guide/
-        style: link
-      - type: action
         label: About
         url: /about/
         style: link
