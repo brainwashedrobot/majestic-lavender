@@ -19,6 +19,7 @@ sections:
         label: Get in touch
         url: /contact
         style: button
+        new_window: true
   - type: section_portfolio
     title: Recent Work
     section_id: latest-projects
