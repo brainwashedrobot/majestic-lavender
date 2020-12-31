@@ -16,7 +16,7 @@ sections:
       CSS-in-JS, CSS frameworks like bootstrap and bulma.
     actions:
       - type: action
-        label: Let's talk
+        label: Get in touch
         url: /contact
         style: button
   - type: section_portfolio
