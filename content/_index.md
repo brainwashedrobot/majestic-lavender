@@ -25,7 +25,7 @@ sections:
     section_id: latest-projects
     subtitle: here are my recent projects
     layout_style: mosaic
-    projects_number: 9
+    projects_number: 8
     view_all_label: View All
     view_all_url: portfolio
   - type: section_grid
