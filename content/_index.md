@@ -70,16 +70,5 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions: []
         type: grid_item
-  - type: section_posts
-    title: Latest from the Blog
-    section_id: latest-posts
-    subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: two
-    actions:
-      - type: action
-        label: View Blog
-        url: blog
-        style: button
 layout: advanced
 ---
