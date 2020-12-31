@@ -66,16 +66,8 @@ sections:
         type: grid_item
       - title: lorem-ipsum
         content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
+          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions: []
         type: grid_item
   - type: section_testimonials
