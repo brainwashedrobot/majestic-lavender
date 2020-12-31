@@ -1,9 +1,9 @@
 ---
-title: Project Title 2
+title: Todoist Clone
 subtitle: Optional Project Subtitle
-date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
-image: images/2.jpg
+date: 2019-04-30
+thumb_image: /images/todoist-clone.png
+image: /images/todoist-clone.png
 layout: project
 ---
 
