@@ -29,7 +29,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - inquiries
+          - Inquiries
           - Sponsorship
           - Other
       - type: form_field
