@@ -22,10 +22,6 @@ params:
         url: /blog/
         style: link
       - type: action
-        label: About
-        url: /about/
-        style: link
-      - type: action
         label: Contact
         url: /contact/
         style: link
