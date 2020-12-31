@@ -64,7 +64,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
