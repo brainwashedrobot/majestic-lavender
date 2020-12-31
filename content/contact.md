@@ -31,6 +31,7 @@ sections:
         options:
           - Inquiries
           - Sponsorship
+        is_required: true
       - type: form_field
         input_type: textarea
         name: message
