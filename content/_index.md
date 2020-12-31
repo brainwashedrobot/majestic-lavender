@@ -23,7 +23,7 @@ sections:
   - type: section_portfolio
     title: Recent Work
     section_id: latest-projects
-    subtitle: An optional subtitle of the section
+    subtitle: here are my recent projects
     layout_style: mosaic
     projects_number: 6
     view_all_label: View All
