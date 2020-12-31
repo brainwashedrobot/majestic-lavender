@@ -26,7 +26,7 @@ sections:
     subtitle: here are my recent projects
     layout_style: mosaic
     projects_number: 6
-    view_all_label: View All
+    view_all_label: See More
     view_all_url: portfolio
   - type: section_grid
     title: What We Do
