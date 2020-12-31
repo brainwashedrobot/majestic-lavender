@@ -32,7 +32,7 @@ sections:
     title: Technologies
     section_id: services
     subtitle: Technologies that i work with currently
-    col_number: two
+    col_number: three
     is_numbered: true
     grid_items:
       - type: grid_item
