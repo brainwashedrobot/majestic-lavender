@@ -21,7 +21,7 @@ params:
         label: Blog
         url: /blog/
         style: link
-      - label: lorem-ipsum
+      - label: Lights
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
